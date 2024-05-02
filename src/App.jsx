@@ -1,6 +1,6 @@
 import './App.css'
-import OurWork from './assets/components/OurWork'
-import Spanish from './assets/components/Spanish'
+import OurWork from './components/OurWork'
+import Spanish from './components/Spanish'
 
 function App() {
 
